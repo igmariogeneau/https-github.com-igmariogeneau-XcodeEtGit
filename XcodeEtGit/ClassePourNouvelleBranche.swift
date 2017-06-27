@@ -9,9 +9,6 @@
 import Foundation
 
 class ClassePourNouvelleBranche {
-    
-    func test() {
-        print("test")
-    }
+    var test = false
     
 }
