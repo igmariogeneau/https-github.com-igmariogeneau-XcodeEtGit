@@ -12,6 +12,7 @@
 		00C382FD1F02B43A0009234B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00C382FB1F02B43A0009234B /* Main.storyboard */; };
 		00C382FF1F02B43A0009234B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00C382FE1F02B43A0009234B /* Assets.xcassets */; };
 		00C383021F02B43A0009234B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00C383001F02B43A0009234B /* LaunchScreen.storyboard */; };
+		00C3830A1F02B5E40009234B /* ClassePourNouvelleBranche.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00C383091F02B5E40009234B /* ClassePourNouvelleBranche.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		00C382FE1F02B43A0009234B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00C383011F02B43A0009234B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00C383031F02B43A0009234B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00C383091F02B5E40009234B /* ClassePourNouvelleBranche.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassePourNouvelleBranche.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				00C382F71F02B43A0009234B /* AppDelegate.swift */,
 				00C382F91F02B43A0009234B /* ViewController.swift */,
 				00C382FB1F02B43A0009234B /* Main.storyboard */,
+				00C383091F02B5E40009234B /* ClassePourNouvelleBranche.swift */,
 				00C382FE1F02B43A0009234B /* Assets.xcassets */,
 				00C383001F02B43A0009234B /* LaunchScreen.storyboard */,
 				00C383031F02B43A0009234B /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				00C3830A1F02B5E40009234B /* ClassePourNouvelleBranche.swift in Sources */,
 				00C382FA1F02B43A0009234B /* ViewController.swift in Sources */,
 				00C382F81F02B43A0009234B /* AppDelegate.swift in Sources */,
 			);
