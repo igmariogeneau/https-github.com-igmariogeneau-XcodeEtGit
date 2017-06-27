@@ -6,9 +6,12 @@
 //  Copyright © 2017 Mario Geneau. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 class ClassePourNouvelleBranche {
     var test = false
     
+    @IBAction func test(_ sender: UIButton) {
+        print("test")
+    }
 }
